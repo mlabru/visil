@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# nome do computador
+HOST=`hostname`
+
+#  executa a aplicação (-OO)
+/usr/bin/env python3 ./visil.py "$@" 2> ./visil.$HOST.log

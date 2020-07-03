@@ -1,0 +1,5225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE fixos>
+<fixos VERSION="0001" CODE="1961" FORMAT="NEWTON">
+
+  <fixo nFix="UTPAS">
+    <descricao>UTPAS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.67267</cpoA>
+      <cpoB>-47.99267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRUTI">
+    <descricao>BRUTI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.868</cpoA>
+      <cpoB>-48.09983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DOKBA">
+    <descricao>DOKBA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.14483</cpoA>
+      <cpoB>-45.42133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MILIX">
+    <descricao>MILIX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.33333</cpoA>
+      <cpoB>-48.7775</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="FLAND">
+    <descricao>FLAND</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.50067</cpoA>
+      <cpoB>-46.15433</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CROWD">
+    <descricao>CROWD</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.21483</cpoA>
+      <cpoB>-46.57783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KUKIP">
+    <descricao>KUKIP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.69383</cpoA>
+      <cpoB>-47.31633</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NILON">
+    <descricao>NILON</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.26167</cpoA>
+      <cpoB>-52.07333</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PAGUE">
+    <descricao>PAGUE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.24883</cpoA>
+      <cpoB>-48.412</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUSA">
+    <descricao>MUSA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.40217</cpoA>
+      <cpoB>-47.596</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ROMIK">
+    <descricao>ROMIK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.22033</cpoA>
+      <cpoB>-48.71883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ILTEG">
+    <descricao>ILTEG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.73408</cpoA>
+      <cpoB>-48.28533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="WELIN">
+    <descricao>WELIN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.92567</cpoA>
+      <cpoB>-48.42367</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OBGAR">
+    <descricao>OBGAR</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.51367</cpoA>
+      <cpoB>-43.54783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR523">
+    <descricao>BR523</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85567</cpoA>
+      <cpoB>-47.95583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="POSMA">
+    <descricao>POSMA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.05467</cpoA>
+      <cpoB>-44.43383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EDOLA">
+    <descricao>EDOLA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.88217</cpoA>
+      <cpoB>-47.58283</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SEDSU">
+    <descricao>SEDSU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.367</cpoA>
+      <cpoB>-49.33333</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CASSI">
+    <descricao>CASSI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.14167</cpoA>
+      <cpoB>-47.42917</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR361">
+    <descricao>BR361</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.7685</cpoA>
+      <cpoB>-48.102</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SALVI">
+    <descricao>SALVI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.90717</cpoA>
+      <cpoB>-43.33667</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GAXIL">
+    <descricao>GAXIL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.17917</cpoA>
+      <cpoB>-42.67367</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ASWNS">
+    <descricao>ASWNS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.32167</cpoA>
+      <cpoB>-48.80383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MEBDI">
+    <descricao>MEBDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.60383</cpoA>
+      <cpoB>-46.36483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KEVOP">
+    <descricao>KEVOP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.78083</cpoA>
+      <cpoB>-47.93133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ASNZR">
+    <descricao>ASNZR</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.2105</cpoA>
+      <cpoB>-46.93283</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUGIS">
+    <descricao>MUGIS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.02017</cpoA>
+      <cpoB>-47.148</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR063">
+    <descricao>BR063</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.09383</cpoA>
+      <cpoB>-48.20367</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DIVPU">
+    <descricao>DIVPU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.2665</cpoA>
+      <cpoB>-43.39467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR061">
+    <descricao>BR061</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.84817</cpoA>
+      <cpoB>-47.69067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR064">
+    <descricao>BR064</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.81183</cpoA>
+      <cpoB>-47.08983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PABIG">
+    <descricao>PABIG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.74217</cpoA>
+      <cpoB>-48.299</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR069">
+    <descricao>BR069</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.60533</cpoA>
+      <cpoB>-47.347</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GOMAL">
+    <descricao>GOMAL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.495</cpoA>
+      <cpoB>-48.99767</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MORLA">
+    <descricao>MORLA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.425</cpoA>
+      <cpoB>-43.7205</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ESDEN">
+    <descricao>ESDEN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.601</cpoA>
+      <cpoB>-43.91467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="STA20">
+    <descricao>STA20</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.89433</cpoA>
+      <cpoB>-47.65183</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NITGI">
+    <descricao>NITGI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.40233</cpoA>
+      <cpoB>-45.02417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="IFBR2">
+    <descricao>IFBR2</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.86467</cpoA>
+      <cpoB>-47.68117</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KART GUARA">
+    <descricao>KART GUARA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8395</cpoA>
+      <cpoB>-47.969</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOGNO">
+    <descricao>KOGNO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.78833</cpoA>
+      <cpoB>-48.22833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DOLVI">
+    <descricao>DOLVI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.664</cpoA>
+      <cpoB>-49.03533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="IFBR1">
+    <descricao>IFBR1</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.87933</cpoA>
+      <cpoB>-48.15767</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="IREBO">
+    <descricao>IREBO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.97583</cpoA>
+      <cpoB>-47.52333</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOGPU">
+    <descricao>KOGPU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.44467</cpoA>
+      <cpoB>-46.476</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NEFAS">
+    <descricao>NEFAS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.19833</cpoA>
+      <cpoB>-44.81433</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GUARA">
+    <descricao>GUARA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85083</cpoA>
+      <cpoB>-47.96833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOLMO">
+    <descricao>MOLMO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.75383</cpoA>
+      <cpoB>-47.45833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRCCC">
+    <descricao>BRCCC</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.06983</cpoA>
+      <cpoB>-47.84417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOXOB">
+    <descricao>MOXOB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.091</cpoA>
+      <cpoB>-48.17783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MAMGU">
+    <descricao>MAMGU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.3645</cpoA>
+      <cpoB>-53.0945</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOLDA">
+    <descricao>KOLDA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.43633</cpoA>
+      <cpoB>-47.14017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BH369">
+    <descricao>BH369</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.85083</cpoA>
+      <cpoB>-44.18417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MABMA">
+    <descricao>MABMA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.70917</cpoA>
+      <cpoB>-53.10083</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OBDOG">
+    <descricao>OBDOG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.215</cpoA>
+      <cpoB>-48.94467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NAKA">
+    <descricao>NAKA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.54583</cpoA>
+      <cpoB>-47.75583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TERES">
+    <descricao>TERES</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.47567</cpoA>
+      <cpoB>-51.36817</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PAMOP">
+    <descricao>PAMOP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.88</cpoA>
+      <cpoB>-48.478</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GINGA">
+    <descricao>GINGA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.335</cpoA>
+      <cpoB>-47.52033</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ISONU">
+    <descricao>ISONU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.95183</cpoA>
+      <cpoB>-47.16033</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EGBIT">
+    <descricao>EGBIT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.76083</cpoA>
+      <cpoB>-47.8025</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="RESTRSUB2">
+    <descricao>RESTRSUB2</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.11667</cpoA>
+      <cpoB>-48.0</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="RESTRSUB1">
+    <descricao>RESTRSUB1</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.1</cpoA>
+      <cpoB>-47.93333</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOPNI">
+    <descricao>MOPNI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.24167</cpoA>
+      <cpoB>-46.82883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ORATE">
+    <descricao>ORATE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.11083</cpoA>
+      <cpoB>-46.64383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NIMTO">
+    <descricao>NIMTO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.89167</cpoA>
+      <cpoB>-48.1125</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TEMOV">
+    <descricao>TEMOV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.32783</cpoA>
+      <cpoB>-44.08717</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VURKI">
+    <descricao>VURKI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.15983</cpoA>
+      <cpoB>-44.467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TEMOX">
+    <descricao>TEMOX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.019</cpoA>
+      <cpoB>-43.26533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="URDES">
+    <descricao>URDES</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.05</cpoA>
+      <cpoB>-48.615</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TERRA">
+    <descricao>TERRA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.543</cpoA>
+      <cpoB>-48.03433</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DOBKO">
+    <descricao>DOBKO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.66717</cpoA>
+      <cpoB>-43.249</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NATA">
+    <descricao>NATA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.799</cpoA>
+      <cpoB>-48.2915</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SAPRU">
+    <descricao>SAPRU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.88583</cpoA>
+      <cpoB>-48.026</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TMABRAN">
+    <descricao>TMABRAN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.87383</cpoA>
+      <cpoB>-48.02133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GIGTI">
+    <descricao>GIGTI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.69833</cpoA>
+      <cpoB>-48.56167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIMIS">
+    <descricao>SIMIS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.34917</cpoA>
+      <cpoB>-49.86383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VINY">
+    <descricao>VINY</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.6765</cpoA>
+      <cpoB>-47.80983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOLVA">
+    <descricao>MOLVA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-21.9555</cpoA>
+      <cpoB>-45.767</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR364">
+    <descricao>BR364</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.9855</cpoA>
+      <cpoB>-48.10267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR366">
+    <descricao>BR366</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8895</cpoA>
+      <cpoB>-48.11283</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PABIN">
+    <descricao>PABIN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.77667</cpoA>
+      <cpoB>-48.19567</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR362">
+    <descricao>BR362</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8725</cpoA>
+      <cpoB>-48.10017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR363">
+    <descricao>BR363</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.86683</cpoA>
+      <cpoB>-48.014</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOSNA">
+    <descricao>MOSNA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.07767</cpoA>
+      <cpoB>-51.5735</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GEDIP">
+    <descricao>GEDIP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.2595</cpoA>
+      <cpoB>-44.12117</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BEGE">
+    <descricao>BEGE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.2775</cpoA>
+      <cpoB>-48.33367</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR368">
+    <descricao>BR368</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.75083</cpoA>
+      <cpoB>-47.7215</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MARI">
+    <descricao>MARI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.68167</cpoA>
+      <cpoB>-47.96367</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIRUL">
+    <descricao>SIRUL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.96617</cpoA>
+      <cpoB>-48.556</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="IFBR3">
+    <descricao>IFBR3</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8485</cpoA>
+      <cpoB>-47.71667</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PABIX">
+    <descricao>PABIX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.0205</cpoA>
+      <cpoB>-48.36017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CAX">
+    <descricao>CAXIAS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-22.7765</cpoA>
+      <cpoB>-43.33317</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ISOMU">
+    <descricao>ISOMU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.05617</cpoA>
+      <cpoB>-50.156</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PAIVA">
+    <descricao>PAIVA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.77433</cpoA>
+      <cpoB>-47.973</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ASDZF">
+    <descricao>ASDZF</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.99133</cpoA>
+      <cpoB>-47.47517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VFRM">
+    <descricao>VFRM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.55767</cpoA>
+      <cpoB>-47.347</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ISURO">
+    <descricao>ISURO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-11.58317</cpoA>
+      <cpoB>-47.7795</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BROFD">
+    <descricao>BROFD</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.81183</cpoA>
+      <cpoB>-47.08983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SAPMI">
+    <descricao>SAPMI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.98467</cpoA>
+      <cpoB>-47.29467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GDF TAGUATINGA">
+    <descricao>GDF TAGUATINGA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.80067</cpoA>
+      <cpoB>-48.05583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR098">
+    <descricao>BR098</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.26083</cpoA>
+      <cpoB>-47.971</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EKODI">
+    <descricao>EKODI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.99217</cpoA>
+      <cpoB>-39.9945</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOPDA">
+    <descricao>MOPDA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.95383</cpoA>
+      <cpoB>-47.60517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OBDOL">
+    <descricao>OBDOL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.99417</cpoA>
+      <cpoB>-43.3705</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ILVE">
+    <descricao>ILVE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.42717</cpoA>
+      <cpoB>-48.4105</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OPLIV">
+    <descricao>OPLIV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-22.58333</cpoA>
+      <cpoB>-46.27133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR524">
+    <descricao>BR524</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.886</cpoA>
+      <cpoB>-48.13833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="REINA">
+    <descricao>REINA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.438</cpoA>
+      <cpoB>-45.57133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUMRI">
+    <descricao>MUMRI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.6215</cpoA>
+      <cpoB>-48.54683</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUBMO">
+    <descricao>MUBMO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.98467</cpoA>
+      <cpoB>-47.29467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUBMI">
+    <descricao>MUBMI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.57883</cpoA>
+      <cpoB>-46.38467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOVDO">
+    <descricao>MOVDO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.87833</cpoA>
+      <cpoB>-48.158</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NITLU">
+    <descricao>NITLU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.50917</cpoA>
+      <cpoB>-44.064</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NISTI">
+    <descricao>NISTI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.06233</cpoA>
+      <cpoB>-43.602</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OPLIK">
+    <descricao>OPLIK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.47733</cpoA>
+      <cpoB>-49.82283</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SALES">
+    <descricao>SALES</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.37533</cpoA>
+      <cpoB>-47.05267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GELIB">
+    <descricao>GELIB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.88167</cpoA>
+      <cpoB>-47.63083</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR026">
+    <descricao>BR026</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.89467</cpoA>
+      <cpoB>-47.60917</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR023">
+    <descricao>BR023</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.86917</cpoA>
+      <cpoB>-47.76133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR022">
+    <descricao>BR022</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.38433</cpoA>
+      <cpoB>-48.28383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TOTI">
+    <descricao>TOTI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85067</cpoA>
+      <cpoB>-47.73</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRN07">
+    <descricao>BRN07</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.89483</cpoA>
+      <cpoB>-47.60917</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRN06">
+    <descricao>BRN06</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8635</cpoA>
+      <cpoB>-47.67517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRN05">
+    <descricao>BRN05</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.86917</cpoA>
+      <cpoB>-47.7615</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PELTA">
+    <descricao>PELTA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.81967</cpoA>
+      <cpoB>-47.1705</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ZOTI">
+    <descricao>ZOTI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.023</cpoA>
+      <cpoB>-47.78867</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRN08">
+    <descricao>BRN08</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.95383</cpoA>
+      <cpoB>-47.60517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="POSBI">
+    <descricao>POSBI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.333</cpoA>
+      <cpoB>-44.6175</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KUKOL">
+    <descricao>KUKOL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.68967</cpoA>
+      <cpoB>-48.44833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="RU">
+    <descricao>MOSRU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.853</cpoA>
+      <cpoB>-47.763</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GERA">
+    <descricao>GERA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.06217</cpoA>
+      <cpoB>-48.093</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TGTSU">
+    <descricao>TGTSU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.86833</cpoA>
+      <cpoB>-48.03117</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OPRIR">
+    <descricao>OPRIR</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.59</cpoA>
+      <cpoB>-47.792</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MAMTU">
+    <descricao>MAMTU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.37</cpoA>
+      <cpoB>-44.09433</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EDMIN">
+    <descricao>EDMIN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.675</cpoA>
+      <cpoB>-48.62067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NECTO">
+    <descricao>NECTO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.32183</cpoA>
+      <cpoB>-45.60833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="FRONT">
+    <descricao>FRONT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.61033</cpoA>
+      <cpoB>-46.208</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NINHO RESGATE">
+    <descricao>NINHO RESGATE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.77517</cpoA>
+      <cpoB>-47.90517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MALMU">
+    <descricao>MALMU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.44767</cpoA>
+      <cpoB>-53.64567</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KUDLO">
+    <descricao>KUDLO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.28017</cpoA>
+      <cpoB>-45.12683</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LUKA">
+    <descricao>LUKA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.75783</cpoA>
+      <cpoB>-48.12883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PUPNO">
+    <descricao>PUPNO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.43467</cpoA>
+      <cpoB>-48.3935</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="FAMIP">
+    <descricao>FAMIP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.95133</cpoA>
+      <cpoB>-47.16017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KUNOS">
+    <descricao>KUNOS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.66833</cpoA>
+      <cpoB>-46.293</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NEBUS">
+    <descricao>NEBUS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.03483</cpoA>
+      <cpoB>-46.755</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR519">
+    <descricao>BR519</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.97233</cpoA>
+      <cpoB>-47.96883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ESLUT">
+    <descricao>ESLUT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.73</cpoA>
+      <cpoB>-44.23433</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR513">
+    <descricao>BR513</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.0725</cpoA>
+      <cpoB>-47.96668</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EROG">
+    <descricao>EROG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.393</cpoA>
+      <cpoB>-48.503</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR517">
+    <descricao>BR517</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.65533</cpoA>
+      <cpoB>-47.97017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR516">
+    <descricao>BR516</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.75533</cpoA>
+      <cpoB>-47.96817</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SELDO">
+    <descricao>SELDO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.69033</cpoA>
+      <cpoB>-44.67483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR514">
+    <descricao>BR514</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85583</cpoA>
+      <cpoB>-47.97117</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VALPA">
+    <descricao>VALPA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.06467</cpoA>
+      <cpoB>-47.9905</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EROS">
+    <descricao>EROS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.53183</cpoA>
+      <cpoB>-48.14817</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KEVUS">
+    <descricao>KEVUS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.73117</cpoA>
+      <cpoB>-44.41533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TITO">
+    <descricao>TITO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.27167</cpoA>
+      <cpoB>-47.71933</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="JESUS">
+    <descricao>JESUS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.01717</cpoA>
+      <cpoB>-47.30567</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BUBA">
+    <descricao>BUBA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.71517</cpoA>
+      <cpoB>-47.96133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NIMKI">
+    <descricao>NIMKI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.38817</cpoA>
+      <cpoB>-47.094</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PALMO">
+    <descricao>PALMO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.28917</cpoA>
+      <cpoB>-45.91333</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TOGIG">
+    <descricao>TOGIG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8635</cpoA>
+      <cpoB>-47.67517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PRUMO">
+    <descricao>PRUMO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.408</cpoA>
+      <cpoB>-46.09983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="FIGA">
+    <descricao>FIGA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.15967</cpoA>
+      <cpoB>-48.469</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR074">
+    <descricao>BR074</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.0685</cpoA>
+      <cpoB>-48.30767</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR075">
+    <descricao>BR075</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.06083</cpoA>
+      <cpoB>-48.27267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR076">
+    <descricao>BR076</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.80267</cpoA>
+      <cpoB>-47.65167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR077">
+    <descricao>BR077</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.93433</cpoA>
+      <cpoB>-48.18667</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NITMI">
+    <descricao>NITMI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.154</cpoA>
+      <cpoB>-43.85483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR072">
+    <descricao>BR072</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.22283</cpoA>
+      <cpoB>-47.53167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SOBRA">
+    <descricao>SOBRA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.65433</cpoA>
+      <cpoB>-47.8005</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DIGO">
+    <descricao>DIGO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.058</cpoA>
+      <cpoB>-47.9705</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KIOTO">
+    <descricao>KIOTO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.53967</cpoA>
+      <cpoB>-47.94983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUDMU">
+    <descricao>MUDMU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.51867</cpoA>
+      <cpoB>-46.039</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LIBAM">
+    <descricao>LIBAM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.76317</cpoA>
+      <cpoB>-48.53467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="RUSTE">
+    <descricao>RUSTE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.25767</cpoA>
+      <cpoB>-48.24133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PEQUI">
+    <descricao>PEQUI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.04783</cpoA>
+      <cpoB>-49.8245</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PAPES">
+    <descricao>PAPES</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.49133</cpoA>
+      <cpoB>-49.94883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NISPA">
+    <descricao>NISPA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.7125</cpoA>
+      <cpoB>-44.67217</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KUDIG">
+    <descricao>KUDIG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.48967</cpoA>
+      <cpoB>-47.4145</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LUVSU">
+    <descricao>LUVSU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.5575</cpoA>
+      <cpoB>-46.5585</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR062">
+    <descricao>BR062</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.89383</cpoA>
+      <cpoB>-48.147</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CAB RWY 29R">
+    <descricao>CAB RWY 29R</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.86167</cpoA>
+      <cpoB>-47.89783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NURB">
+    <descricao>NURB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.32917</cpoA>
+      <cpoB>-48.19483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KUDIK">
+    <descricao>KUDIK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.7725</cpoA>
+      <cpoB>-47.19783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIGOK">
+    <descricao>SIGOK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.6245</cpoA>
+      <cpoB>-44.05533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CAB RWY 29L">
+    <descricao>CAB RWY 29L</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.87867</cpoA>
+      <cpoB>-47.9095</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="FRAIL">
+    <descricao>FRAIL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.21717</cpoA>
+      <cpoB>-48.625</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LIDI">
+    <descricao>LIDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.08333</cpoA>
+      <cpoB>-48.101</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LIJA">
+    <descricao>LIJA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.11283</cpoA>
+      <cpoB>-48.21733</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EGBAM">
+    <descricao>EGBAM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.6635</cpoA>
+      <cpoB>-44.79783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DOGPA">
+    <descricao>DOGPA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.95783</cpoA>
+      <cpoB>-42.97867</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NINSA">
+    <descricao>NINSA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.00983</cpoA>
+      <cpoB>-43.71783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OPREB">
+    <descricao>OPREB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.44933</cpoA>
+      <cpoB>-48.048</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EGBAR">
+    <descricao>EGBAR</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.521</cpoA>
+      <cpoB>-43.967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TIPTU">
+    <descricao>TIPTU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.12883</cpoA>
+      <cpoB>-48.6605</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EGBAV">
+    <descricao>EGBAV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.36033</cpoA>
+      <cpoB>-49.344</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIDOT">
+    <descricao>SIDOT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.30417</cpoA>
+      <cpoB>-47.71583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PANAM">
+    <descricao>PANAM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.697</cpoA>
+      <cpoB>-50.60033</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ASNIQ">
+    <descricao>ASNIQ</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.618</cpoA>
+      <cpoB>-47.30017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIDOL">
+    <descricao>SIDOL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.0685</cpoA>
+      <cpoB>-44.34317</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PANAP">
+    <descricao>PANAP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.85983</cpoA>
+      <cpoB>-45.77367</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIDOB">
+    <descricao>SIDOB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.5825</cpoA>
+      <cpoB>-48.45683</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="REFAN">
+    <descricao>REFAN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.572</cpoA>
+      <cpoB>-46.87717</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="APINO">
+    <descricao>APINO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.96183</cpoA>
+      <cpoB>-45.20783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOKMA">
+    <descricao>KOKMA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.20933</cpoA>
+      <cpoB>-47.76883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOTVU">
+    <descricao>KOTVU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8505</cpoA>
+      <cpoB>-47.72517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VUTMI">
+    <descricao>VUTMI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85217</cpoA>
+      <cpoB>-47.5545</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="STA21">
+    <descricao>STA21</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8685</cpoA>
+      <cpoB>-47.76617</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BLUES">
+    <descricao>BLUES</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.32983</cpoA>
+      <cpoB>-46.51917</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NAXIV">
+    <descricao>NAXIV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.42683</cpoA>
+      <cpoB>-50.86617</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR382">
+    <descricao>BR382</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.52667</cpoA>
+      <cpoB>-48.38167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR381">
+    <descricao>BR381</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.63</cpoA>
+      <cpoB>-47.6125</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DOMGI">
+    <descricao>DOMGI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.05833</cpoA>
+      <cpoB>-47.04117</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KORAN">
+    <descricao>KORAN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.92383</cpoA>
+      <cpoB>-46.07217</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DEPTI">
+    <descricao>DEPTI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.774</cpoA>
+      <cpoB>-46.316</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CARVA">
+    <descricao>CARVA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.38117</cpoA>
+      <cpoB>-45.35033</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOTPI">
+    <descricao>MOTPI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.812</cpoA>
+      <cpoB>-47.193</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PADIB">
+    <descricao>PADIB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.25917</cpoA>
+      <cpoB>-47.4425</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="AZOIC">
+    <descricao>AZOIC</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-10.28683</cpoA>
+      <cpoB>-47.708</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CIMO">
+    <descricao>CIMO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.03317</cpoA>
+      <cpoB>-48.6935</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PURA">
+    <descricao>PURA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.97733</cpoA>
+      <cpoB>-48.18317</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PABUG">
+    <descricao>PABUG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.96617</cpoA>
+      <cpoB>-48.556</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR404">
+    <descricao>BR404</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.08617</cpoA>
+      <cpoB>-48.13583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MATNI">
+    <descricao>MATNI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.81183</cpoA>
+      <cpoB>-47.08967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUDAT">
+    <descricao>MUDAT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.21333</cpoA>
+      <cpoB>-48.3275</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRFFF">
+    <descricao>BRFFF</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.67267</cpoA>
+      <cpoB>-47.99267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PABUK">
+    <descricao>PABUK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.4485</cpoA>
+      <cpoB>-48.51133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NIPDI">
+    <descricao>NIPDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.62183</cpoA>
+      <cpoB>-48.03717</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ESLID">
+    <descricao>ESLID</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.57483</cpoA>
+      <cpoB>-44.37533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NEBAL">
+    <descricao>NEBAL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.44083</cpoA>
+      <cpoB>-50.32767</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BETAR">
+    <descricao>BETAR</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.02183</cpoA>
+      <cpoB>-46.891</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NEYVA">
+    <descricao>NEYVA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.57483</cpoA>
+      <cpoB>-46.91517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GOIA">
+    <descricao>GOIA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.40333</cpoA>
+      <cpoB>-48.44483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GAXON">
+    <descricao>GAXON</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.0775</cpoA>
+      <cpoB>-47.96467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DODBI">
+    <descricao>DODBI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.28467</cpoA>
+      <cpoB>-43.36417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOGDI">
+    <descricao>KOGDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.67133</cpoA>
+      <cpoB>-48.94667</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GOLFO">
+    <descricao>GOLFO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.853</cpoA>
+      <cpoB>-44.738</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MAVNI">
+    <descricao>MAVNI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.48967</cpoA>
+      <cpoB>-47.41483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUSAC">
+    <descricao>MUSAC</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.8175</cpoA>
+      <cpoB>-47.49283</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SAMAMBAIA">
+    <descricao>SAMAMBAIA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85783</cpoA>
+      <cpoB>-48.1165</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LITOV">
+    <descricao>LITOV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.335</cpoA>
+      <cpoB>-43.791</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SAPSA">
+    <descricao>SAPSA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.6895</cpoA>
+      <cpoB>-46.36283</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SALTU">
+    <descricao>SALTU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.94</cpoA>
+      <cpoB>-43.03217</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="POLAN">
+    <descricao>POLAN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-11.82817</cpoA>
+      <cpoB>-50.886</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR044">
+    <descricao>BR044</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.67267</cpoA>
+      <cpoB>-47.99267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR047">
+    <descricao>BR047</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.96933</cpoA>
+      <cpoB>-47.851</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR046">
+    <descricao>BR046</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.97717</cpoA>
+      <cpoB>-47.97167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR043">
+    <descricao>BR043</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.66483</cpoA>
+      <cpoB>-47.87183</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR042">
+    <descricao>BR042</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.765</cpoA>
+      <cpoB>-47.865</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SASBU">
+    <descricao>SASBU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.15833</cpoA>
+      <cpoB>-41.20833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BREEE">
+    <descricao>BREEE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.66483</cpoA>
+      <cpoB>-47.87183</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR049">
+    <descricao>BR049</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.0775</cpoA>
+      <cpoB>-47.96483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR048">
+    <descricao>BR048</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.06983</cpoA>
+      <cpoB>-47.84417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TELED">
+    <descricao>TELED</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.5325</cpoA>
+      <cpoB>-50.35283</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OPROK">
+    <descricao>OPROK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.04917</cpoA>
+      <cpoB>-47.52583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EDVIV">
+    <descricao>EDVIV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.75133</cpoA>
+      <cpoB>-47.655</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NINDI">
+    <descricao>NINDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.51333</cpoA>
+      <cpoB>-45.76833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PUGVA">
+    <descricao>PUGVA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.30733</cpoA>
+      <cpoB>-43.947</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ASA SUL">
+    <descricao>ASA SUL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.84033</cpoA>
+      <cpoB>-47.91917</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUDUB">
+    <descricao>MUDUB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.44417</cpoA>
+      <cpoB>-47.838</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR032">
+    <descricao>BR032</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.61217</cpoA>
+      <cpoB>-47.54383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR034">
+    <descricao>BR034</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.02767</cpoA>
+      <cpoB>-47.35083</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIDUK">
+    <descricao>SIDUK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.35533</cpoA>
+      <cpoB>-43.966</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR036">
+    <descricao>BR036</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.04917</cpoA>
+      <cpoB>-47.52583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR038">
+    <descricao>BR038</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85</cpoA>
+      <cpoB>-48.22</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KUBIB">
+    <descricao>KUBIB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.5575</cpoA>
+      <cpoB>-46.5585</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRN11">
+    <descricao>BRN11</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.02783</cpoA>
+      <cpoB>-47.35083</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRN13">
+    <descricao>BRN13</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.01533</cpoA>
+      <cpoB>-47.42783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRN14">
+    <descricao>BRN14</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85217</cpoA>
+      <cpoB>-47.55433</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MEVOS">
+    <descricao>MEVOS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-10.40167</cpoA>
+      <cpoB>-50.49967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NITBU">
+    <descricao>NITBU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.85933</cpoA>
+      <cpoB>-47.19783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PEDAL">
+    <descricao>PEDAL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.85</cpoA>
+      <cpoB>-46.79183</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SEBMU">
+    <descricao>SEBMU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.08167</cpoA>
+      <cpoB>-49.74783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PTO CURVA 29L">
+    <descricao>PTO CURVA 29L</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.88583</cpoA>
+      <cpoB>-48.0253</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SOLEN">
+    <descricao>SOLEN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.38367</cpoA>
+      <cpoB>-48.04383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MALBA">
+    <descricao>MALBA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.78467</cpoA>
+      <cpoB>-44.57717</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PANDI">
+    <descricao>PANDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.76942</cpoA>
+      <cpoB>-47.393</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NIKLA">
+    <descricao>NIKLA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.44367</cpoA>
+      <cpoB>-46.065</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="UDIGI">
+    <descricao>UDIGI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-10.32017</cpoA>
+      <cpoB>-48.66567</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DOMLA">
+    <descricao>DOMLA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.09917</cpoA>
+      <cpoB>-42.41317</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIGEL">
+    <descricao>SIGEL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.93417</cpoA>
+      <cpoB>-43.2485</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOVPA">
+    <descricao>MOVPA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.48667</cpoA>
+      <cpoB>-47.325</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DOMLI">
+    <descricao>DOMLI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.01517</cpoA>
+      <cpoB>-47.76483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LARGE">
+    <descricao>LARGE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.44483</cpoA>
+      <cpoB>-46.47617</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="UNIDO">
+    <descricao>UNIDO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.21117</cpoA>
+      <cpoB>-45.95033</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OSABI">
+    <descricao>OSABI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.54633</cpoA>
+      <cpoB>-46.37533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIGER">
+    <descricao>SIGER</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.20983</cpoA>
+      <cpoB>-46.94933</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ZELAN">
+    <descricao>ZELAN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-10.80433</cpoA>
+      <cpoB>-50.12967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUNOL">
+    <descricao>MUNOL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.94283</cpoA>
+      <cpoB>-43.46883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIGEX">
+    <descricao>SIGEX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.7885</cpoA>
+      <cpoB>-48.62883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TEMIT">
+    <descricao>TEMIT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.0855</cpoA>
+      <cpoB>-44.06783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OPROB">
+    <descricao>OPROB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.89017</cpoA>
+      <cpoB>-48.09317</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CARRI">
+    <descricao>CARRI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.41633</cpoA>
+      <cpoB>-47.26017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PUGNI">
+    <descricao>PUGNI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.87183</cpoA>
+      <cpoB>-43.2435</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NEBIX">
+    <descricao>NEBIX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.30183</cpoA>
+      <cpoB>-44.47483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PUGNU">
+    <descricao>PUGNU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.18967</cpoA>
+      <cpoB>-45.97267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EKUGA">
+    <descricao>EKUGA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.62017</cpoA>
+      <cpoB>-44.995</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OPRAM">
+    <descricao>OPRAM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-22.95617</cpoA>
+      <cpoB>-46.4376</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CARDO">
+    <descricao>CARDO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.62733</cpoA>
+      <cpoB>-44.09533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUDPA">
+    <descricao>MUDPA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.87667</cpoA>
+      <cpoB>-48.71483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIRE">
+    <descricao>SIRE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.0455</cpoA>
+      <cpoB>-47.82633</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BDESC">
+    <descricao>BDESC</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.75083</cpoA>
+      <cpoB>-48.19883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOLTI">
+    <descricao>MOLTI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.388</cpoA>
+      <cpoB>-47.24267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OPRAX">
+    <descricao>OPRAX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.74217</cpoA>
+      <cpoB>-48.299</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DISKA">
+    <descricao>DISKA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.23833</cpoA>
+      <cpoB>-44.52867</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SSEBA">
+    <descricao>SSEBA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.90967</cpoA>
+      <cpoB>-47.756</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ALINA">
+    <descricao>ALINA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.4505</cpoA>
+      <cpoB>-47.66967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SASTI">
+    <descricao>SASTI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.11633</cpoA>
+      <cpoB>-41.59883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ALIND">
+    <descricao>ALIND</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.73933</cpoA>
+      <cpoB>-48.258</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="JUBE">
+    <descricao>JUBE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.20533</cpoA>
+      <cpoB>-47.983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOMGA">
+    <descricao>KOMGA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8755</cpoA>
+      <cpoB>-49.61417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BABR">
+    <descricao>BABR</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85967</cpoA>
+      <cpoB>-47.89983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GEDOK">
+    <descricao>GEDOK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.9895</cpoA>
+      <cpoB>-44.1955</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ALONG">
+    <descricao>ALONG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.03783</cpoA>
+      <cpoB>-47.7725</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SEBNA">
+    <descricao>SEBNA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.58583</cpoA>
+      <cpoB>-47.21633</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ISAKA">
+    <descricao>ISAKA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.919</cpoA>
+      <cpoB>-47.80133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR001">
+    <descricao>BR001</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.98967</cpoA>
+      <cpoB>-48.17933</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MADOK">
+    <descricao>MADOK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.92433</cpoA>
+      <cpoB>-45.82083</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR003">
+    <descricao>BR003</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.875</cpoA>
+      <cpoB>-48.10683</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR002">
+    <descricao>BR002</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.89167</cpoA>
+      <cpoB>-48.1125</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR004">
+    <descricao>BR004</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.78683</cpoA>
+      <cpoB>-48.19367</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR007">
+    <descricao>BR007</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8905</cpoA>
+      <cpoB>-48.0935</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR006">
+    <descricao>BR006</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.87467</cpoA>
+      <cpoB>-48.1</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SEBNU">
+    <descricao>SEBNU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.48667</cpoA>
+      <cpoB>-47.325</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ISUTA">
+    <descricao>ISUTA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.92133</cpoA>
+      <cpoB>-43.30133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KUBDA">
+    <descricao>KUBDA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.812</cpoA>
+      <cpoB>-47.193</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GIKRI">
+    <descricao>GIKRI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.05533</cpoA>
+      <cpoB>-42.12067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EGDES">
+    <descricao>EGDES</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.08083</cpoA>
+      <cpoB>-44.40833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR507">
+    <descricao>BR507</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.75333</cpoA>
+      <cpoB>-47.85517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR502">
+    <descricao>BR502</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.97033</cpoA>
+      <cpoB>-47.85533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR503">
+    <descricao>BR503</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.07033</cpoA>
+      <cpoB>-47.85333</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR509">
+    <descricao>BR509</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.65317</cpoA>
+      <cpoB>-47.86783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIREM">
+    <descricao>SIREM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.55017</cpoA>
+      <cpoB>-48.64633</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LITUG">
+    <descricao>LITUG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.31483</cpoA>
+      <cpoB>-44.10767</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRAZE">
+    <descricao>BRAZE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.57767</cpoA>
+      <cpoB>-48.101</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BEANO">
+    <descricao>BEANO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.7395</cpoA>
+      <cpoB>-48.494</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VARSO">
+    <descricao>VARSO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.32317</cpoA>
+      <cpoB>-48.1165</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LIVAB">
+    <descricao>LIVAB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-11.22183</cpoA>
+      <cpoB>-51.901</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PANIK">
+    <descricao>PANIK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.43317</cpoA>
+      <cpoB>-44.73583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CLUMP">
+    <descricao>CLUMP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.68967</cpoA>
+      <cpoB>-46.363</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LIVAN">
+    <descricao>LIVAN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.52817</cpoA>
+      <cpoB>-44.57067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BILA">
+    <descricao>BILA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.326</cpoA>
+      <cpoB>-48.417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NATIO">
+    <descricao>NATIO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.9535</cpoA>
+      <cpoB>-47.85583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TVTWR">
+    <descricao>TVTWR</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.7915</cpoA>
+      <cpoB>-47.8915</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PAROL">
+    <descricao>PAROL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.1735</cpoA>
+      <cpoB>-47.1735</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="JOACA">
+    <descricao>JOACA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.19917</cpoA>
+      <cpoB>-48.197</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LUCI">
+    <descricao>LUCI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.87183</cpoA>
+      <cpoB>-48.06417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="AAARP">
+    <descricao>AAARP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.87417</cpoA>
+      <cpoB>-47.92</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SAFOK">
+    <descricao>SAFOK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.347</cpoA>
+      <cpoB>-47.59483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="THAIS">
+    <descricao>THAIS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.22817</cpoA>
+      <cpoB>-47.39133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOGLI">
+    <descricao>KOGLI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.965</cpoA>
+      <cpoB>-48.07267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="URADI">
+    <descricao>URADI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85517</cpoA>
+      <cpoB>-47.799</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOPLA">
+    <descricao>MOPLA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.901</cpoA>
+      <cpoB>-46.26483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="POSLI">
+    <descricao>POSLI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.19033</cpoA>
+      <cpoB>-46.17767</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PAJEM">
+    <descricao>PAJEM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.24183</cpoA>
+      <cpoB>-48.59883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NIMVA">
+    <descricao>NIMVA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.4685</cpoA>
+      <cpoB>-49.89183</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PROVE">
+    <descricao>PROVE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.82783</cpoA>
+      <cpoB>-46.56833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BODIT">
+    <descricao>BODIT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.7605</cpoA>
+      <cpoB>-47.85117</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NIBMO">
+    <descricao>NIBMO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.357</cpoA>
+      <cpoB>-47.63167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LISBO">
+    <descricao>LISBO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.667</cpoA>
+      <cpoB>-45.17</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MONDE">
+    <descricao>MONDE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.09767</cpoA>
+      <cpoB>-48.26183</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EDNAR">
+    <descricao>EDNAR</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.47683</cpoA>
+      <cpoB>-48.5785</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PUBUG">
+    <descricao>PUBUG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.38817</cpoA>
+      <cpoB>-47.094</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MONDA">
+    <descricao>MONDA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-21.2055</cpoA>
+      <cpoB>-45.2055</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ISUKA">
+    <descricao>ISUKA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.22633</cpoA>
+      <cpoB>-54.34633</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EVNOL">
+    <descricao>EVNOL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.10383</cpoA>
+      <cpoB>-42.96883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ILSUL">
+    <descricao>ILSUL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.15317</cpoA>
+      <cpoB>-47.65883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DOTKA">
+    <descricao>DOTKA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.76433</cpoA>
+      <cpoB>-47.95783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MIKEL">
+    <descricao>MIKEL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.542</cpoA>
+      <cpoB>-48.01067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ASA NORTE">
+    <descricao>ASA NORTE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.73567</cpoA>
+      <cpoB>-47.89367</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TIGNI">
+    <descricao>TIGNI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.856</cpoA>
+      <cpoB>-47.81133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PLANT">
+    <descricao>PLANT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.626</cpoA>
+      <cpoB>-47.65267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ISUSI">
+    <descricao>ISUSI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.57217</cpoA>
+      <cpoB>-46.87717</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SARSU">
+    <descricao>SARSU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.048</cpoA>
+      <cpoB>-47.67617</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OCELO">
+    <descricao>OCELO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.21817</cpoA>
+      <cpoB>-46.118</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VALDI">
+    <descricao>VALDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.06333</cpoA>
+      <cpoB>-47.47533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SDF">
+    <descricao>SDF</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.855</cpoA>
+      <cpoB>-47.842</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ACRE">
+    <descricao>ACRE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.903</cpoA>
+      <cpoB>-48.3755</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="UBSUT">
+    <descricao>UBSUT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.54</cpoA>
+      <cpoB>-48.173</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DOTBA">
+    <descricao>DOTBA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.37733</cpoA>
+      <cpoB>-43.31617</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="UBSUS">
+    <descricao>UBSUS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.03833</cpoA>
+      <cpoB>-49.769</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR009">
+    <descricao>BR009</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.86917</cpoA>
+      <cpoB>-48.0125</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ATYLA">
+    <descricao>ATYLA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.243</cpoA>
+      <cpoB>-48.67467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GAVUT">
+    <descricao>GAVUT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.956</cpoA>
+      <cpoB>-44.05583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GAVUP">
+    <descricao>GAVUP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.0825</cpoA>
+      <cpoB>-43.05283</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GAVUS">
+    <descricao>GAVUS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.133</cpoA>
+      <cpoB>-48.55533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SUEDE">
+    <descricao>SUEDE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.85617</cpoA>
+      <cpoB>-48.56067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OCTIL">
+    <descricao>OCTIL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-7.61067</cpoA>
+      <cpoB>-41.4905</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRNEW">
+    <descricao>BRNEW</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.38617</cpoA>
+      <cpoB>-48.28167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TELMA">
+    <descricao>TELMA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.86367</cpoA>
+      <cpoB>-46.53017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="XODIX">
+    <descricao>XODIX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-11.82667</cpoA>
+      <cpoB>-49.64333</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="FLINT">
+    <descricao>FLINT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.67033</cpoA>
+      <cpoB>-47.4165</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR541">
+    <descricao>BR541</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.75267</cpoA>
+      <cpoB>-47.821</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR056">
+    <descricao>BR056</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.77267</cpoA>
+      <cpoB>-47.98583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR057">
+    <descricao>BR057</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.97733</cpoA>
+      <cpoB>-47.97167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR054">
+    <descricao>BR054</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.68817</cpoA>
+      <cpoB>-48.18933</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR052">
+    <descricao>BR052</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.058</cpoA>
+      <cpoB>-47.66383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR053">
+    <descricao>BR053</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.05883</cpoA>
+      <cpoB>-47.5575</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR051">
+    <descricao>BR051</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.0855</cpoA>
+      <cpoB>-48.086</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR058">
+    <descricao>BR058</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.66733</cpoA>
+      <cpoB>-47.5485</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR059">
+    <descricao>BR059</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.62</cpoA>
+      <cpoB>-47.567</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PIANO">
+    <descricao>PIANO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.555</cpoA>
+      <cpoB>-46.95867</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GUINA">
+    <descricao>GUINA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.86717</cpoA>
+      <cpoB>-47.18017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ALEX">
+    <descricao>ALEX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.12883</cpoA>
+      <cpoB>-48.6605</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LIVEB">
+    <descricao>LIVEB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.504</cpoA>
+      <cpoB>-43.60383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KODNA">
+    <descricao>KODNA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.59367</cpoA>
+      <cpoB>-47.44217</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ILPAV">
+    <descricao>ILPAV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.73167</cpoA>
+      <cpoB>-48.9785</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MEBLU">
+    <descricao>MEBLU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.68833</cpoA>
+      <cpoB>-45.29983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LIVEV">
+    <descricao>LIVEV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.06967</cpoA>
+      <cpoB>-47.84417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VADU">
+    <descricao>VADU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.04617</cpoA>
+      <cpoB>-47.63983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LATO">
+    <descricao>LATO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.5745</cpoA>
+      <cpoB>-48.4465</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ORIM">
+    <descricao>ORIM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.9895</cpoA>
+      <cpoB>-44.1955</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SEMDI">
+    <descricao>SEMDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.4</cpoA>
+      <cpoB>-43.54417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BH372">
+    <descricao>BH372</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.75767</cpoA>
+      <cpoB>-44.20917</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="STANT">
+    <descricao>STANT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.75083</cpoA>
+      <cpoB>-48.19883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="FLASH">
+    <descricao>FLASH</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.996</cpoA>
+      <cpoB>-46.709</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOKI">
+    <descricao>KOKI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.35667</cpoA>
+      <cpoB>-48.279</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TOSEG">
+    <descricao>TOSEG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.886</cpoA>
+      <cpoB>-48.026</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ROXA">
+    <descricao>ROXA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.39333</cpoA>
+      <cpoB>-48.3245</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CASTE">
+    <descricao>CASTE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.49967</cpoA>
+      <cpoB>-48.78633</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TOCAN">
+    <descricao>TOCAN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.062</cpoA>
+      <cpoB>-49.06983</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PUKOD">
+    <descricao>PUKOD</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.75733</cpoA>
+      <cpoB>-47.841</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GOIAT">
+    <descricao>GOIAT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.43617</cpoA>
+      <cpoB>-48.55133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LODUV">
+    <descricao>LODUV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.37783</cpoA>
+      <cpoB>-48.81383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PESCA">
+    <descricao>PESCA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.33183</cpoA>
+      <cpoB>-44.59567</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOMDI">
+    <descricao>KOMDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.875</cpoA>
+      <cpoB>-47.8025</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SELTO">
+    <descricao>SELTO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.24717</cpoA>
+      <cpoB>-43.8315</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BROCI">
+    <descricao>BROCI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.0155</cpoA>
+      <cpoB>-47.428</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOKLI">
+    <descricao>KOKLI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.875</cpoA>
+      <cpoB>-55.443</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BROCC">
+    <descricao>BROCC</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.15333</cpoA>
+      <cpoB>-48.22467</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUNUX">
+    <descricao>MUNUX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.748</cpoA>
+      <cpoB>-45.3095</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PARAN">
+    <descricao>PARAN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.771</cpoA>
+      <cpoB>-47.7775</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PONTO A">
+    <descricao>PONTO A</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.80083</cpoA>
+      <cpoB>-47.85167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VUKEP">
+    <descricao>VUKEP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.30417</cpoA>
+      <cpoB>-47.71583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NIMTI">
+    <descricao>NIMTI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.22283</cpoA>
+      <cpoB>-47.53167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PORMI">
+    <descricao>PORMI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.2055</cpoA>
+      <cpoB>-48.0625</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KEXAL">
+    <descricao>KEXAL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.0925</cpoA>
+      <cpoB>-41.83333</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CEILANDIA">
+    <descricao>CEILANDIA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.7925</cpoA>
+      <cpoB>-48.1215</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CHORD">
+    <descricao>CHORD</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-12.86367</cpoA>
+      <cpoB>-49.3995</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="FRESH">
+    <descricao>FRESH</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.36033</cpoA>
+      <cpoB>-49.06833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KUBNO">
+    <descricao>KUBNO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.14483</cpoA>
+      <cpoB>-45.42133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="VUSVA">
+    <descricao>VUSVA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.875</cpoA>
+      <cpoB>-48.14267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ZAPI">
+    <descricao>ZAPI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.78267</cpoA>
+      <cpoB>-47.5455</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ENRI">
+    <descricao>ENRI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.2305</cpoA>
+      <cpoB>-47.82967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="APUBB">
+    <descricao>APUBB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.7705</cpoA>
+      <cpoB>-47.904</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MILED">
+    <descricao>MILED</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.18083</cpoA>
+      <cpoB>-40.99783</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BS371">
+    <descricao>BS371</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.88383</cpoA>
+      <cpoB>-48.00317</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BS372">
+    <descricao>BS372</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.885</cpoA>
+      <cpoB>-48.0705</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PUBOM">
+    <descricao>PUBOM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.02017</cpoA>
+      <cpoB>-47.148</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUNIS">
+    <descricao>MUNIS</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.3995</cpoA>
+      <cpoB>-49.81283</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GAMA">
+    <descricao>GAMA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.02333</cpoA>
+      <cpoB>-48.06067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SANPA">
+    <descricao>SANPA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.334</cpoA>
+      <cpoB>-44.71867</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BROGC">
+    <descricao>BROGC</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.2735</cpoA>
+      <cpoB>-47.30567</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUBUT">
+    <descricao>MUBUT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.7725</cpoA>
+      <cpoB>-46.90967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BACON">
+    <descricao>BACON</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.22017</cpoA>
+      <cpoB>-47.181</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SELDI">
+    <descricao>SELDI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.60383</cpoA>
+      <cpoB>-46.36483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="IRULA">
+    <descricao>IRULA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.7755</cpoA>
+      <cpoB>-48.08417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR372">
+    <descricao>BR372</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.96783</cpoA>
+      <cpoB>-47.72183</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="AMANT">
+    <descricao>AMANT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.38483</cpoA>
+      <cpoB>-48.82383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="IRULI">
+    <descricao>IRULI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.65333</cpoA>
+      <cpoB>-49.24017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR019">
+    <descricao>BR019</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.873</cpoA>
+      <cpoB>-47.823</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OBGER">
+    <descricao>OBGER</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.255</cpoA>
+      <cpoB>-43.76333</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR012">
+    <descricao>BR012</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8505</cpoA>
+      <cpoB>-47.72517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR013">
+    <descricao>BR013</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.86717</cpoA>
+      <cpoB>-47.72967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR407">
+    <descricao>BR407</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.05567</cpoA>
+      <cpoB>-47.61678</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR011">
+    <descricao>BR011</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.754</cpoA>
+      <cpoB>-47.69633</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR016">
+    <descricao>BR016</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8675</cpoA>
+      <cpoB>-47.73667</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR017">
+    <descricao>BR017</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85183</cpoA>
+      <cpoB>-47.746</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BR014">
+    <descricao>BR014</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.95633</cpoA>
+      <cpoB>-47.656</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="LUVLA">
+    <descricao>LUVLA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.99083</cpoA>
+      <cpoB>-48.183</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="HATCH">
+    <descricao>HATCH</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.60583</cpoA>
+      <cpoB>-45.04883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NEBAP">
+    <descricao>NEBAP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.0315</cpoA>
+      <cpoB>-47.6125</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="STA18">
+    <descricao>STA18</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.75033</cpoA>
+      <cpoB>-47.64133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="STA19">
+    <descricao>STA19</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.81167</cpoA>
+      <cpoB>-47.63533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OBGEM">
+    <descricao>OBGEM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.12967</cpoA>
+      <cpoB>-45.485</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="STA17">
+    <descricao>STA17</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.92633</cpoA>
+      <cpoB>-48.173</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="STA10">
+    <descricao>STA10</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.85017</cpoA>
+      <cpoB>-48.22</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ASWFA">
+    <descricao>ASWFA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.21717</cpoA>
+      <cpoB>-47.62833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="STA12">
+    <descricao>STA12</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.78833</cpoA>
+      <cpoB>-48.228</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="STA13">
+    <descricao>STA13</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.9905</cpoA>
+      <cpoB>-48.1725</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PT29N">
+    <descricao>PT29N</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.73767</cpoA>
+      <cpoB>-47.43767</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DADOT">
+    <descricao>DADOT</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-9.8665</cpoA>
+      <cpoB>-52.81533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PT11S">
+    <descricao>PT11S</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.017</cpoA>
+      <cpoB>-48.43583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOKLU">
+    <descricao>KOKLU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.813</cpoA>
+      <cpoB>-44.89383</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ISOPI">
+    <descricao>ISOPI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.6595</cpoA>
+      <cpoB>-47.54217</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PUGOV">
+    <descricao>PUGOV</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.60983</cpoA>
+      <cpoB>-44.50817</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PT11N">
+    <descricao>PT11N</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.791</cpoA>
+      <cpoB>-48.46</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MUPAB">
+    <descricao>MUPAB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.67517</cpoA>
+      <cpoB>-47.86133</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PT29S">
+    <descricao>PT29S</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.9475</cpoA>
+      <cpoB>-47.43583</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOLVI">
+    <descricao>KOLVI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-22.04617</cpoA>
+      <cpoB>-45.462</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GOLA">
+    <descricao>GOLA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.73733</cpoA>
+      <cpoB>-48.04833</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="KOLVO">
+    <descricao>KOLVO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-22.39833</cpoA>
+      <cpoB>-45.02883</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIDUP">
+    <descricao>SIDUP</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.453</cpoA>
+      <cpoB>-43.28967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TRIVI">
+    <descricao>TRIVI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-20.03183</cpoA>
+      <cpoB>-44.56267</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ESBUX">
+    <descricao>ESBUX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.67633</cpoA>
+      <cpoB>-47.80967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="IMBES">
+    <descricao>IMBES</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.19917</cpoA>
+      <cpoB>-45.02083</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIGIG">
+    <descricao>SIGIG</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.21333</cpoA>
+      <cpoB>-48.3275</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SEREI">
+    <descricao>SEREI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.89917</cpoA>
+      <cpoB>-46.26617</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="TESAL">
+    <descricao>TESAL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-10.16117</cpoA>
+      <cpoB>-52.03417</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SIGIR">
+    <descricao>SIGIR</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.2465</cpoA>
+      <cpoB>-44.06433</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="MOMKO">
+    <descricao>MOMKO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.7725</cpoA>
+      <cpoB>-46.90967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DANIL">
+    <descricao>DANIL</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-17.64583</cpoA>
+      <cpoB>-47.82517</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SARPA">
+    <descricao>SARPA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.17417</cpoA>
+      <cpoB>-43.74067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="DANVA">
+    <descricao>DANVA</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.89383</cpoA>
+      <cpoB>-48.147</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BRDDD">
+    <descricao>BRDDD</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.0775</cpoA>
+      <cpoB>-47.96483</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PANOK">
+    <descricao>PANOK</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.16267</cpoA>
+      <cpoB>-47.446</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CORVO">
+    <descricao>CORVO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.90583</cpoA>
+      <cpoB>-48.08067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CAB RWY 11L">
+    <descricao>CAB RWY 11L</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.8635</cpoA>
+      <cpoB>-47.9275</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PANOB">
+    <descricao>PANOB</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.448</cpoA>
+      <cpoB>-48.04767</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CRISE">
+    <descricao>CRISE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.52383</cpoA>
+      <cpoB>-47.86017</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="CAB RWY 11R">
+    <descricao>CAB RWY 11R</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.88067</cpoA>
+      <cpoB>-47.93967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="BROGD">
+    <descricao>BROGD</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-16.239</cpoA>
+      <cpoB>-48.54167</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PAKUN">
+    <descricao>PAKUN</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.51333</cpoA>
+      <cpoB>-46.39067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="PAKUM">
+    <descricao>PAKUM</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.51333</cpoA>
+      <cpoB>-46.39067</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="GIKMU">
+    <descricao>GIKMU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.218</cpoA>
+      <cpoB>-44.2655</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="EGONI">
+    <descricao>EGONI</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-18.00083</cpoA>
+      <cpoB>-50.02967</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="ASIQE">
+    <descricao>ASIQE</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.93717</cpoA>
+      <cpoB>-47.7285</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="NIDRU">
+    <descricao>NIDRU</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-13.52683</cpoA>
+      <cpoB>-49.27533</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="SAMGO">
+    <descricao>SAMGO</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-19.476</cpoA>
+      <cpoB>-43.844</cpoB>
+    </coord>
+  </fixo>
+
+  <fixo nFix="OPRUX">
+    <descricao>OPRUX</descricao>
+    <tipo>W</tipo>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-14.0405</cpoA>
+      <cpoB>-50.56817</cpoB>
+    </coord>
+  </fixo>
+
+</fixos>

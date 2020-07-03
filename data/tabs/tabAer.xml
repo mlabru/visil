@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE aerodromos>
+<aerodromos VERSION="0001" CODE="1961" FORMAT="NEWTON">
+
+  <aerodromo nAer="SBBR">
+    <descricao>BRASÍLIA</descricao>
+    <elevacao>3479</elevacao>
+    <declmag>-20</declmag>
+    <coord>
+      <tipo>L</tipo>
+      <cpoA>-15.863500</cpoA>
+      <cpoB>-47.927500</cpoB>
+    </coord>
+
+    <pista nPst="11L">
+      <rumo>107</rumo>
+      <coord>
+        <tipo>L</tipo>
+        <cpoA>-15.863500</cpoA>
+        <cpoB>-47.927500</cpoB>
+      </coord>
+    </pista>
+
+    <pista nPst="29L">
+      <rumo>287</rumo>
+      <coord>
+        <tipo>L</tipo>
+        <cpoA>-15.878670</cpoA>
+        <cpoB>-47.909500</cpoB>
+      </coord>
+    </pista>
+
+    <pista nPst="29R">
+      <rumo>287</rumo>
+      <coord>
+        <tipo>L</tipo>
+        <cpoA>-15.861670</cpoA>
+        <cpoB>-47.897830</cpoB>
+      </coord>
+    </pista>
+
+    <pista nPst="11R">
+      <rumo>107</rumo>
+      <coord>
+        <tipo>L</tipo>
+        <cpoA>-15.880670</cpoA>
+        <cpoB>-47.939670</cpoB>
+      </coord>
+    </pista>
+  </aerodromo>
+
+</aerodromos>

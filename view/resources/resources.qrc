@@ -1,0 +1,64 @@
+<RCC>
+  <qresource>
+
+    <file>images/logos/icon.png</file>
+    <file>images/logos/logo.png</file>
+
+    <file>images/compile16.png</file>
+    <file>images/edit.png</file>
+    <file>images/execute.png</file>
+    <file>images/linepointer.png</file>
+    <file>images/navaid.png</file>
+    <file>images/new.png</file>
+    <file>images/quit.png</file>
+
+    <file>images/dbedit/add.png</file>
+    <file>images/dbedit/delete.png</file>
+    <file>images/dbedit/execute.png</file>
+    <file>images/dbedit/first.png</file>
+    <file>images/dbedit/go-down.png</file>
+    <file>images/dbedit/go-up.png</file>
+    <file>images/dbedit/last.png</file>
+    <file>images/dbedit/next.png</file>
+    <file>images/dbedit/open.png</file>
+    <file>images/dbedit/prev.png</file>
+    <file>images/dbedit/stop.png</file>
+    <file>images/dbedit/view.png</file>
+    <file>images/dbedit/wpgStart.jpg</file>
+
+    <file>images/maps.png</file>
+    <file>images/ndb.png</file>
+    <file>images/background1.png</file>
+    <file>images/background2.png</file>
+    <file>images/background3.png</file>
+    <file>images/background4.png</file>
+    <file>images/bold.png</file>
+    <file>images/bringtofront.png</file>
+    <file>images/canal.png</file>
+    <file>images/down.png</file>
+    <file>images/floodfill.png</file>
+    <file>images/fullscreen_48.png</file>
+    <file>images/italic.png</file>
+    <file>images/linecolor.png</file>
+    <file>images/pointer.png</file>
+    <file>images/redo32.png</file>
+    <file>images/run16.png</file>
+    <file>images/sendtoback.png</file>
+    <file>images/textpointer.png</file>
+    <file>images/underline.png</file>
+    <file>images/undo32.png</file>
+    <file>images/up.png</file>
+
+    <file>images/wizard/wpgCanal.png</file>
+    <file>images/wizard/wpgConfigExe.jpg</file>
+    <file>images/wizard/wpgTermina.jpg</file>
+
+    <file>pixmaps/gamenew.xpm</file>
+    <file>pixmaps/gamepause.xpm</file>
+    <file>pixmaps/gamequit.xpm</file>
+    <file>pixmaps/invert.xpm</file>
+    <file>pixmaps/zoomin.xpm</file>
+    <file>pixmaps/zoomout.xpm</file>
+
+  </qresource>
+</RCC>

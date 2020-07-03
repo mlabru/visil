@@ -1,0 +1,6 @@
+[submodule "libs/coords"]
+	path = libs/coords
+	url = https://github.com/mlabru/coords.git
+[submodule "libs/geomag"]
+	path = libs/geomag
+	url = https://github.com/mlabru/geomag.git

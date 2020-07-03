@@ -1,3 +1,23 @@
+*~
+*.bkp
+.bkp/
+*.doc
+*.docx
+*.err
+.idea
+images/
+libs/
+*.log
+news/
+*.old
+olds/
+*.out
+.pycheckrc
+*.tgz
+ui/
+*.x
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
