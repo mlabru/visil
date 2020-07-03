@@ -1,0 +1,4 @@
+.pycheckrc
+*.pyc
+*.out
+*~
