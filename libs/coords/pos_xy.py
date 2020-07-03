@@ -1,35 +1,13 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
----------------------------------------------------------------------------------------------------
-pos_xy.
+pos_xy
 
-DOCUMENT ME!
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-revision 0.2  2015/dez  mlabru
+revision 1.1  2015/dez  mlabru
 pep8 style conventions
 
-revision 0.1  2014/nov  mlabru
+revision 1.0  2014/nov  mlabru
 initial release (Linux/Python)
----------------------------------------------------------------------------------------------------
 """
-__version__ = "$revision: 0.2$"
-__author__ = "Milton Abrunhosa"
-__date__ = "2016/01"
-
 # < imports >--------------------------------------------------------------------------------------
 
 # python library
@@ -41,70 +19,65 @@ import logging
 # M_LOG = logging.getLogger(__name__)
 # M_LOG.setLevel(logging.DEBUG)
 
-# < class CPosXY >---------------------------------------------------------------------------------
+# < CPosXY >---------------------------------------------------------------------------------------
 
 class CPosXY(object):
     """
-    DOCUMENT ME!
+    CPosXY
     """
     # ---------------------------------------------------------------------------------------------
-
     def __init__(self, ff_x=0., ff_y=0.):
         """
-        DOCUMENT ME!
+        constructor
         """
         # logger
-        # M_LOG.info("__init__:>>")
+        # M_LOG.info(">> constructor")
 
-        # verifica parâmetros de entrada
-        # assert f_control
+        # check input
+        # assert ff_x
+        # assert ff_y
 
         # inicia a super classe
         super(CPosXY, self).__init__()
 
         self.__f_x = ff_x
-        # M_LOG.info("self._f_x:[%f]" % self._f_x)
+        # M_LOG.debug("self.__f_x:[%f]", self.__f_x)
 
         self.__f_y = ff_y
-        # M_LOG.info("self._f_y:[%f]" % self._f_y)
+        # M_LOG.debug("self.__f_y:[%f]", self.__f_y)
 
-        # logger
-        # M_LOG.info("__init__:<<")
+    # ---------------------------------------------------------------------------------------------
+    def __str__(self):
+        """
+        str magic method
+        """
+        # return
+        return "{}/{}".format(self.__f_x, self.__f_y)
 
     # =============================================================================================
-    # dados
+    # data
     # =============================================================================================
 
     # ---------------------------------------------------------------------------------------------
-    
     @property
     def f_x(self):
-        """
-        get X
-        """
+        """X"""
         return self.__f_x
                                             
     @f_x.setter
     def f_x(self, f_val):
-        """
-        set X
-        """
+        """X"""
         self.__f_x = f_val
 
     # ---------------------------------------------------------------------------------------------
-    
     @property
     def f_y(self):
-        """
-        get Y
-        """
+        """Y"""
         return self.__f_y
                                             
     @f_y.setter
     def f_y(self, f_val):
-        """
-        set Y
-        """
+        """Y"""
         self.__f_y = f_val
 
 # < the end >--------------------------------------------------------------------------------------

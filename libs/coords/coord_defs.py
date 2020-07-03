@@ -1,35 +1,14 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
----------------------------------------------------------------------------------------------------
 coord_defs
-
 mantém os detalhes de um sistema de coordenadas.
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 revision 0.2  2015/nov  mlabru
 pep8 style conventions
 
 revision 0.1  2014/nov  mlabru
 initial version (Linux/Python)
----------------------------------------------------------------------------------------------------
 """
-__version__ = "$revision: 0.2$"
-__author__ = "Milton Abrunhosa"
-__date__ = "2015/11"
-
 # < imports >--------------------------------------------------------------------------------------
 
 # python library
@@ -61,11 +40,11 @@ D_DEG_3PI_2 = 270.    # 3 PI / 2
 D_DEG_2PI   = 360.    # 2 PI
 
 # conversão de radianos para graus
-# D_CNV_RAD2DEG = 57.29577951
+# D_RAD2DEG = 57.29577951
 D_RAD2DEG = 180. / math.pi
 
 # conversão de graus para radianos
-# D_CNV_DEG2RAD = 0.017453292
+# D_DEG2RAD = 0.017453292
 D_DEG2RAD = math.pi / 180.
 D_RADIAN_PER_DEGREE = D_DEG2RAD
 
@@ -246,11 +225,14 @@ D_SET_COORD_VALIDAS = ('D', 'F', 'G', 'I', 'K', 'L', 'P', 'X')
 
 # latitude de referência (SBBR)
 M_REF_LAT = -15.778460
+M_REF_LAT = 0.
 
 # longitude de referência (SBBR)
 M_REF_LNG = -47.928661
+M_REF_LNG = 0.
 
 # declinação magnética (SBBR)
 M_DCL_MAG = -21.37
+M_DCL_MAG = 0.
 
 # < the end >--------------------------------------------------------------------------------------

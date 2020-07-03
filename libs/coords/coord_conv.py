@@ -1,40 +1,29 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
----------------------------------------------------------------------------------------------------
 coord_conv
-
 manage geographical points, perform conversions, etc
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+revision 2.0  2020/  mlabru
+converted to python 3
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-revision 0.2  2015/nov  mlabru
+revision 1.1  2015/nov  mlabru
 pep8 style conventions
 
-revision 0.1  2014/nov  mlabru
+revision 1.0  2014/nov  mlabru
 initial version (Linux/Python)
----------------------------------------------------------------------------------------------------
 """
-__version__ = "$revision: 0.2$"
-__author__ = "Milton Abrunhosa"
-__date__ = "2016/01"
-
 # < imports >--------------------------------------------------------------------------------------
 
 # python library
+import logging
 import math
 import re
+
+# < module data >----------------------------------------------------------------------------------
+
+# logging level
+M_LOG = logging.getLogger(__name__)
+M_LOG.setLevel(logging.DEBUG)
 
 # -------------------------------------------------------------------------------------------------
 def azm2ang(ff_azim):
@@ -50,6 +39,9 @@ def azm2ang(ff_azim):
 
     @return ângulo cartesiano ou azimute em graus
     """
+    # logger
+    # M_LOG.info(">> azm2ang")
+
     # normaliza o sistema de referência entre azimute e ângulo
     return (90. - ff_azim) if ff_azim <= 90. else (450. - ff_azim)
 
@@ -62,6 +54,9 @@ def deg2dms(ff_deg):
 
     @return: ggg° mm' ss.sss"
     """
+    # logger
+    # M_LOG.info(">> deg2dms")
+
     # valor absoluto
     lf_deg = abs(ff_deg)
 
@@ -90,6 +85,9 @@ def deg2str(ff_deg):
     """
     converte de
     """
+    # logger
+    # M_LOG.info(">> deg2str")
+
     # retorna a string
     return u"%3d° %02d' %05.3f\"" % (deg2dms(ff_deg))
 
@@ -98,6 +96,9 @@ def dms2deg(fi_deg, fi_min, ff_sec):
     """
     converte de ggg° mm' ss.sss para decimal
     """
+    # logger
+    # M_LOG.info(">> dms2deg")
+
     # converte para graus
     lf_deg = abs(fi_deg) + (fi_min / 60.) + (ff_sec / 3600.)
 
@@ -109,6 +110,9 @@ def dms2str(fi_deg, fi_min, ff_sec):
     """
     converte de
     """
+    # logger
+    # M_LOG.info(">> dms2str")
+
     # retorna a string
     return u"%3d° %02d' %05.3f\"" % (fi_deg, fi_min, ff_sec)
 
@@ -121,6 +125,9 @@ def format_ica_lat(ff_lat):
 
     @return string no formato GGMM.mmmH
     """
+    # logger
+    # M_LOG.info(">> format_ica_lat")
+
     # converte os graus para D/M/S
     lf_deg, lf_min, lf_seg = deg2dms(ff_lat)
 
@@ -140,6 +147,9 @@ def format_ica_lng(ff_lng):
 
     @return string no formato GGGMM.mmmH
     """
+    # logger
+    # M_LOG.info(">> format_ica_lng")
+
     # converte os graus para D/M/S
     lf_deg, lf_min, lf_seg = deg2dms(ff_lng)
 
@@ -159,6 +169,9 @@ def gms2deg(ff_dms):
 
     @return coordenada em graus
     """
+    # logger
+    # M_LOG.info(">> gms2deg")
+
     # valor absoluto
     lf_dms = abs(ff_dms)
 
@@ -167,7 +180,6 @@ def gms2deg(ff_dms):
 
     # segundos inválidos ?
     if ls_ec > 59.99:
-
         # logger
         l_log = logging.getLogger("coord_conv::gms2deg")
         l_log.setLevel(logging.NOTSET)
@@ -180,7 +192,6 @@ def gms2deg(ff_dms):
 
         # minutos inválidos ?
         if l_min > 59.:
-
             # logger
             l_log = logging.getLogger("coord_conv::gms2deg")
             l_log.setLevel(logging.NOTSET)
@@ -204,6 +215,9 @@ def lat2deg(ff_lat_rad):
 
     @return the latitude in decimal
     """
+    # logger
+    # M_LOG.info(">> lat2deg")
+
     # calcula
     lf_lat = math.degrees(ff_lat_rad)
 
@@ -226,6 +240,9 @@ def lat2dms(ff_lat):
 
     @return ggg° mm' ss.sss" N/S
     """
+    # logger
+    # M_LOG.info(">> lat2dms")
+
     # normaliza
     if ff_lat > 90.:
         ff_lat = 90
@@ -243,6 +260,9 @@ def lng2deg(ff_lng_rad):
 
     @return the longitude in decimal
     """
+    # logger
+    # M_LOG.info(">> lng2deg")
+
     # converte para graus
     lf_lng = math.degrees(ff_lng_rad)
 
@@ -265,6 +285,9 @@ def lng2dms(ff_lng):
 
     @return ggg° mm' ss.sss" E/W
     """
+    # logger
+    # M_LOG.info(">> lng2dms")
+
     # normaliza
     if ff_lng > 180.:
         ff_lng = 180
@@ -276,6 +299,58 @@ def lng2dms(ff_lng):
     return deg2dms(abs(ff_lng)), 'W' if ff_lng < 0 else 'E'
 
 # -------------------------------------------------------------------------------------------------
+def parse_adc(fs_in):
+    """
+    conversão de uma latitude/longitude(no formato XGGG MM SS) para coordenada geográfica
+
+    @param fs_in: string no formato XGGG MM SS
+
+    @return objeto latitude/longitude
+    """
+    # logger
+    # M_LOG.info(">> parse_adc")
+
+    # coordinates field decoding
+    l_coord = fs_in.split()
+
+    # hemisfério sul/oeste ?
+    if l_coord[0][0].upper() in ['O', 'S', 'W']:
+        li_sgn = -1
+
+    # hemisfério norte/leste ?
+    elif l_coord[0][0].upper() in ['E', 'N']:        
+        li_sgn = 1
+
+    # otherwise,...
+    else:
+        # return error
+        return None
+
+    # init coord
+    lf_crd = None
+
+    # converte graus
+    li_deg = int(l_coord[0][1:])
+
+    # graus válidos ?
+    if -180 <= li_deg <= 180:
+        # converte minutos
+        li_min = int(l_coord[1])
+
+        # minutos válidos ?
+        if 0 <= li_min <= 59:
+            # converte segundos
+            li_sec = int(l_coord[2])
+
+            # segundos válidos ?
+            if li_sec >= 0:
+                # cria uma coordenada
+                lf_crd = dms2deg(li_deg, li_min, li_sec) * li_sgn
+
+    # return longitude or latitude
+    return lf_crd
+
+# -------------------------------------------------------------------------------------------------
 def parse_aisweb(fs_in):
     """
     conversão de uma latitude/longitude(no formato X:GGG:MM:SS.ss) para coordenada geográfica
@@ -284,6 +359,9 @@ def parse_aisweb(fs_in):
 
     @return objeto latitude/longitude
     """
+    # logger
+    # M_LOG.info(">> parse_aisweb")
+
     # coordinates field decoding
     l_coord = fs_in.split(':')
 
@@ -331,6 +409,9 @@ def parse_faa(fs_in):
 
     @return coordenada em graus
     """
+    # logger
+    # M_LOG.info(">> parse_faa")
+
     # converte a entrada para maiúscula
     fs_in = fs_in.upper()
 
@@ -339,7 +420,6 @@ def parse_faa(fs_in):
 
     # hemisfério inválido ?
     if not fs_in[0] in ['E', 'L', 'N', 'O', 'S', 'W']:
-
         # logger
         l_log = logging.getLogger("CCoordTRK::parse_faa")
         l_log.setLevel(logging.NOTSET)
@@ -347,14 +427,12 @@ def parse_faa(fs_in):
 
     # senão, hemisfério ok
     else:
-
         # converte para graus
         lf_crd = dms2deg(float(fs_in[1:]))
 
         # graus inválidos ?
         if (((fs_in[0] in ['E', 'L', 'O', 'W']) and (lf_crd > 180.)) or
             ((fs_in[0] in ['N', 'S']) and (lf_crd > 90.))):
-
             # logger
             l_log = logging.getLogger("coord_conv::parse_faa")
             l_log.setLevel(logging.NOTSET)
@@ -362,7 +440,6 @@ def parse_faa(fs_in):
 
         # senão, graus ok. hemisfério sul ou oeste ?
         elif fs_in[0] in ['O', 'S', 'W']:
-
             # converte para negativo
             lf_crd = -lf_crd
 
@@ -378,6 +455,9 @@ def parse_ica(fs_in):
 
     @return objeto latitude/longitude
     """
+    # logger
+    # M_LOG.info(">> parse_ica")
+
     # converte a entrada para maiúscula
     fs_in = fs_in.upper()
 
@@ -407,6 +487,9 @@ def parse_ica_2(fs_in):
 
     @return objeto latitude/longitude
     """
+    # logger
+    # M_LOG.info(">> parse_ica_2")
+
     # converte a entrada para maiúscula
     fs_in = fs_in.upper()
 
@@ -434,6 +517,9 @@ def round_32(f_val):
 
     @return nautical miles in 1/32
     """
+    # logger
+    # M_LOG.info(">> round_32")
+
     # return
     return long(round(f_val * 32.))
 
@@ -444,6 +530,9 @@ def round_from_32(f_val):
 
     @return distance in nautical miles
     """
+    # logger
+    # M_LOG.info(">> round_from_32")
+
     # return
     return f_val / 32.
 

@@ -1,35 +1,14 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
----------------------------------------------------------------------------------------------------
-coord_geod.
-
+coord_geod
 manage geographical points, perform conversions, etc.
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 revision 0.2  2015/nov  mlabru
 pep8 style conventions
 
 revision 0.1  2014/nov  mlabru
 initial version (Linux/Python)
----------------------------------------------------------------------------------------------------
 """
-__version__ = "$revision: 0.2$"
-__author__ = "Milton Abrunhosa"
-__date__ = "2016/01"
-
 # < imports >--------------------------------------------------------------------------------------
 
 # python library
@@ -37,19 +16,15 @@ import logging
 import math
 
 # import coord_conv as conv
-import coord_defs as cdefs
+from . import coord_defs as cdefs
 
 # < module data >----------------------------------------------------------------------------------
 
-# logging level
-M_LOG_LVL = logging.DEBUG
-
 # logger
 M_LOG = logging.getLogger(__name__)
-M_LOG.setLevel(M_LOG_LVL)
+M_LOG.setLevel(logging.DEBUG)
 
 # -------------------------------------------------------------------------------------------------
-
 def ecef2geod(ff_x, ff_y, ff_z=0.):
     """
     ECEF coordinates (X,Y,Z) can be converted into geodetic coordinates (latitude, longitude, height).
@@ -105,7 +80,6 @@ def ecef2geod(ff_x, ff_y, ff_z=0.):
     return math.degrees(lf_lat), lf_lng, lf_alt
 
 # -------------------------------------------------------------------------------------------------
-
 def ecef2geod_bow(ft_xyz):  # (x, y, z):
     """
     conversao de coordenadas ECEF para Geografica. Metodo Iterativo de Bowring.
@@ -160,7 +134,6 @@ def ecef2geod_bow(ft_xyz):  # (x, y, z):
     return lat, lon, alt
 
 # -------------------------------------------------------------------------------------------------
-
 def ecef2geod_sof(ft_xyz):  # (x, y, z):
     """
     conversao de coordenadas ECEF para Geografica. Metodo Fechado de I. Sofair.
@@ -221,7 +194,6 @@ def ecef2geod_sof(ft_xyz):  # (x, y, z):
     return lat, lon, alt
 
 # -------------------------------------------------------------------------------------------------
-
 def geod2ecef(ff_lat, ff_lng, ff_alt=0.):
     """
     geodetic coordinates (latitude, longitude, height) can be converted
@@ -269,7 +241,6 @@ def geod2ecef(ff_lat, ff_lng, ff_alt=0.):
     return lf_x, lf_y, lf_z
 
 # -------------------------------------------------------------------------------------------------
-
 def enu2ecef(x, y, z, latrad, lonrad, altrad):
     """
     conversao de coordenadas ENU (centrado no radar) para ECEF.
@@ -286,7 +257,7 @@ def enu2ecef(x, y, z, latrad, lonrad, altrad):
     # M_LOG.info("enu2ecef:>>")
 
     # converte para ECEF
-    xrad, yrad, zrad = geo2ecef(latrad, lonrad, altrad)
+    xrad, yrad, zrad = geod2ecef(latrad, lonrad, altrad)
 
     # converte para radianos
     latrad = math.radians(latrad)
@@ -296,9 +267,9 @@ def enu2ecef(x, y, z, latrad, lonrad, altrad):
     # | X |   | -sin(lonrad)   -sin(latrad)cos(lonrad)   cos(latrad)cos(lonrad) | | x |   | xrad |
     # | Y | = |  cos(lonrad)   -sin(latrad)sin(lonrad)   cos(latrad)sin(lonrad) | | y | + | yrad |
     # | Z |   |       0                cos(latrad)       sin(latrad)            | | z |   | zrad |
-    X = - sin(lonrad) * x - sin(latrad) * cos(lonrad) * y + cos(latrad) * cos(lonrad) * z + xrad
-    Y = cos(lonrad) * x - sin(latrad) * sin(lonrad) * y + cos(latrad) * sin(lonrad) * z + yrad
-    Z = cos(latrad) * y + sin(latrad) * z + zrad
+    X = - math.sin(lonrad) * x - math.sin(latrad) * math.cos(lonrad) * y + math.cos(latrad) * math.cos(lonrad) * z + xrad
+    Y =   math.cos(lonrad) * x - math.sin(latrad) * math.sin(lonrad) * y + math.cos(latrad) * math.sin(lonrad) * z + yrad
+    Z =   math.cos(latrad) * y + math.sin(latrad) * z + zrad
 
     # logger
     # M_LOG.info("enu2ecef:<<")
